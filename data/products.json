@@ -1,0 +1,80 @@
+[
+  {
+    "id": "creditoflow",
+    "name": "Crédito Flow",
+    "description": "Empréstimo pessoal de até R$ 50.000 com juros competitivos e aprovação em até 24 horas",
+    "keywords": ["crédito", "empréstimo", "dinheiro", "urgente", "dívida", "contas"],
+    "min_score": 0.6,
+    "benefits": [
+      "Até R$ 50.000",
+      "Juros a partir de 1,99% ao mês",
+      "Aprovação em até 24h",
+      "Sem consulta ao SPC/Serasa"
+    ]
+  },
+  {
+    "id": "investbro",
+    "name": "InvestBro",
+    "description": "Plataforma de investimentos com taxa zero e acesso a fundos, ações e renda fixa",
+    "keywords": ["investimento", "rentabilidade", "futuro", "aplicação", "poupança", "ações"],
+    "min_score": 0.7,
+    "benefits": [
+      "Taxa zero de corretagem",
+      "Acesso a mais de 500 ativos",
+      "Assessoria especializada gratuita",
+      "App intuitivo e fácil de usar"
+    ]
+  },
+  {
+    "id": "seguromax",
+    "name": "SeguroMax",
+    "description": "Seguro de vida com cobertura abrangente e assistência 24h para você e sua família",
+    "keywords": ["seguro", "proteção", "família", "vida", "saúde", "assistência"],
+    "min_score": 0.65,
+    "benefits": [
+      "Cobertura até R$ 500.000",
+      "Assistência funeral incluída",
+      "Telemedicina 24h",
+      "A partir de R$ 29,90/mês"
+    ]
+  },
+  {
+    "id": "cartaopro",
+    "name": "Cartão Pro",
+    "description": "Cartão de crédito sem anuidade com cashback de até 3% em todas as compras",
+    "keywords": ["cartão", "crédito", "cashback", "compras", "limite", "sem anuidade"],
+    "min_score": 0.55,
+    "benefits": [
+      "Sem anuidade para sempre",
+      "Até 3% de cashback",
+      "Limite inicial de até R$ 10.000",
+      "Programa de pontos exclusivo"
+    ]
+  },
+  {
+    "id": "previdencia",
+    "name": "Previd Futuro",
+    "description": "Plano de previdência privada com gestão profissional e benefícios fiscais",
+    "keywords": ["previdência", "aposentadoria", "futuro", "longo prazo", "PGBL", "VGBL"],
+    "min_score": 0.75,
+    "benefits": [
+      "Gestão profissional",
+      "Benefícios fiscais (IR)",
+      "Portabilidade sem custo",
+      "Rentabilidade acima da inflação"
+    ]
+  },
+  {
+    "id": "consorcio",
+    "name": "Consórcio Fácil",
+    "description": "Consórcio de imóveis e veículos com parcelas que cabem no seu bolso",
+    "keywords": ["consórcio", "imóvel", "veículo", "casa", "carro", "parcela"],
+    "min_score": 0.65,
+    "benefits": [
+      "Sem entrada",
+      "Sem juros",
+      "Parcelas de até 120 meses",
+      "Contemplação por lance ou sorteio"
+    ]
+  }
+]
